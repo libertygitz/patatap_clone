@@ -1,0 +1,15 @@
+# Stylesheet for patatap_clone
+
+
+// to change default size of canvas element
+canvas {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+
+// place everyhing properly
+body, html {
+	margin: 0;
+	height: 100%;
+}
